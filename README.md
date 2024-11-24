@@ -64,7 +64,8 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
+ - Visit my [Website](https://www.ersonusaini.com) 🌐
+ - Portfolio as Devops :  [Website](https://portfolio.sonusaini.in)
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/sonusainidevops/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/sonusainidevops/) ✨
+ - Shoot Me an [Email](mailto:sonusainidevops@gmail.com) 💌
